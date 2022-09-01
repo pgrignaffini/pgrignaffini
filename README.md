@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pgrignaffini
 - 👀 I’m interested in Web3, especially smart contract and frontend development💻
-- 🌱 I’m currently learning Solidity, NextJS, PyTeal👨🏻‍💻
+- 🌱 I’m currently learning NextJS, Typescript👨🏻‍💻
 - 💞️ I’m looking to collaborate on Web3 hackathon all over the world🌎
 - 📫 How to reach me: you can find me on Discord -> PulesGizmo#2961
 
